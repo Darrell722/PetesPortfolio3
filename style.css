@@ -4,7 +4,7 @@
 header {
   width: 80%; /* set the width of the header element */
   text-align: center;
-  margin: 0;
+  
 }
 
 body {
@@ -55,11 +55,11 @@ hr {
 }
 /* Add your solution below */
 
-}
+
 .image-circle {
   border: 2px solid #003049;
   border-radius: 50%; 
-  width: 100px;
+  width: 200px;
 }
 a    { color:  #d62828  }
 a:link    { color:  #d62828  }
